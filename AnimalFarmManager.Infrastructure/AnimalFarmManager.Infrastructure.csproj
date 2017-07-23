@@ -43,8 +43,14 @@
     <Compile Include="DTO\AnimalDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\InMemoryAnimalRepository.cs" />
+    <Compile Include="Repositories\InMemoryFatherRepository.cs" />
+    <Compile Include="Repositories\InMemoryMotherRepository.cs" />
     <Compile Include="Services\AnimalService.cs" />
+    <Compile Include="DTO\FatherDTO.cs" />
     <Compile Include="Services\IAnimalService.cs" />
+    <Compile Include="Services\IFatherService.cs" />
+    <Compile Include="Services\IMotherService.cs" />
+    <Compile Include="DTO\MotherDTO.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AnimalFarmManager.Core\AnimalFarmManager.Core.csproj">

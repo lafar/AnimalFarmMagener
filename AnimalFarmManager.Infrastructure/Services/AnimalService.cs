@@ -15,9 +15,9 @@ namespace AnimalFarmManager.Infrastructure.Services
         }
 
 
+        
 
-
-        public void Create(string mother, string father, DateTime birthDate)
+        public void Create(string mother, string father, DateTime birthDate, string description = "")
         {
             var animal = _animalRepository.Get(mother, father, birthDate);
         }
