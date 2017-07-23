@@ -9,7 +9,7 @@ namespace AnimalFarmManager.Infrastructure.Repositories
 {
     class InMemoryAnimalRepository : IAnimalRepository
     {
-        private ISet<Animal> _animals = new HashSet<Animal>();
+        private readonly ISet<Animal> _animals = new HashSet<Animal>();
         public Animal Get(Guid id)
         {
             return _animals.Single(x => x.Id == id);
@@ -38,7 +38,7 @@ namespace AnimalFarmManager.Infrastructure.Repositories
 
         public IEnumerable<Animal> Get(string mother, string father, DateTime birthDate)
         {
-            return _animals.Where(x => x.Mother.Name == mother && x.Father.Name == father && x.BirthDate == birthDate);
+            return _animals.Where(x => x.Mother.Name == mother && x.Father.Name == father && x.BirthDate.Date == birthDate);
         }
     }
 }

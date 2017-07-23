@@ -10,7 +10,7 @@ namespace AnimalFarmManager.Infrastructure.DTO
 
         public DateTime DeathDate { get;  set; }
         public DateTime SaleDate { get;  set; }
-        public SexType Sex { get;  set; }
+        public Gender Sex { get;  set; }
 
         public Cage Cage { get;  set; }
     }
