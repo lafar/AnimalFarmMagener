@@ -19,3 +19,5 @@ c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmM
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Tests\obj\Debug\AnimalFarmManager.Tests.csprojResolveAssemblyReference.cache
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Tests\obj\Debug\AnimalFarmManager.Tests.dll
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Tests\obj\Debug\AnimalFarmManager.Tests.pdb
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Tests\obj\Debug\AnimalFarmManager.Tests.dll
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Tests\obj\Debug\AnimalFarmManager.Tests.pdb

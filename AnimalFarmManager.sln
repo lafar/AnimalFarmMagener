@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarmManager.Tests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarmManager.Tests.E2E", "AnimalFarmManager.Tests.E2E\AnimalFarmManager.Tests.E2E.csproj", "{56AFB12B-ED39-4104-A24D-400A64CBB6BE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalFarmManager.API", "AnimalFarmManager.API\AnimalFarmManager.API.csproj", "{3CD94B26-C7F2-4AC8-AE6F-731FDF644A4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalFarmManager.API", "AnimalFarmManager.API\AnimalFarmManager.API.csproj", "{3CD94B26-C7F2-4AC8-AE6F-731FDF644A4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

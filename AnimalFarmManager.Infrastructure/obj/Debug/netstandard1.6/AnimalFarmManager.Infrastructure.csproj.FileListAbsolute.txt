@@ -1,0 +1,10 @@
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.AssemblyInfoInputs.cache
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.AssemblyInfo.cs
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\bin\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.deps.json
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\bin\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.dll
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\bin\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.pdb
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\bin\Debug\netstandard1.6\AnimalFarmManager.Core.dll
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\bin\Debug\netstandard1.6\AnimalFarmManager.Core.pdb
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.dll
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\netstandard1.6\AnimalFarmManager.Infrastructure.pdb

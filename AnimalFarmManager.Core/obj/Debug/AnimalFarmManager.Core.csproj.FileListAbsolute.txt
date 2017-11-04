@@ -3,3 +3,5 @@ c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmM
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Core\obj\Debug\AnimalFarmManager.Core.csprojResolveAssemblyReference.cache
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Core\obj\Debug\AnimalFarmManager.Core.dll
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Core\obj\Debug\AnimalFarmManager.Core.pdb
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\AnimalFarmManager.Core.dll
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\AnimalFarmManager.Core.pdb

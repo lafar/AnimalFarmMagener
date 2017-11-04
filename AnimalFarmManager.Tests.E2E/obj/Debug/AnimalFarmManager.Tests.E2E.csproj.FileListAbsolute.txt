@@ -3,3 +3,5 @@ c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmM
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Tests.E2E\obj\Debug\AnimalFarmManager.Tests.E2E.csprojResolveAssemblyReference.cache
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Tests.E2E\obj\Debug\AnimalFarmManager.Tests.E2E.dll
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Tests.E2E\obj\Debug\AnimalFarmManager.Tests.E2E.pdb
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Tests.E2E\obj\Debug\AnimalFarmManager.Tests.E2E.dll
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Tests.E2E\obj\Debug\AnimalFarmManager.Tests.E2E.pdb

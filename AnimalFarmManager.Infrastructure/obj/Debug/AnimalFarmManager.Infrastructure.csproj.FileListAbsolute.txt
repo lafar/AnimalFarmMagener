@@ -5,3 +5,5 @@ c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmM
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Infrastructure\obj\Debug\AnimalFarmManager.Infrastructure.csprojResolveAssemblyReference.cache
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Infrastructure\obj\Debug\AnimalFarmManager.Infrastructure.dll
 c:\users\gel\documents\visual studio 2015\Projects\AnimalFarmManager\AnimalFarmManager.Infrastructure\obj\Debug\AnimalFarmManager.Infrastructure.pdb
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\AnimalFarmManager.Infrastructure.dll
+C:\workspace\NET\AFM\AnimalFarmMagener\AnimalFarmManager.Infrastructure\obj\Debug\AnimalFarmManager.Infrastructure.pdb

@@ -1,0 +1,8 @@
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\netstandard1.6\AnimalFarmManager.Core.csproj.CoreCompileInputs.cache
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\netstandard1.6\AnimalFarmManager.Core.AssemblyInfoInputs.cache
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\netstandard1.6\AnimalFarmManager.Core.AssemblyInfo.cs
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\bin\Debug\netstandard1.6\AnimalFarmManager.Core.deps.json
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\bin\Debug\netstandard1.6\AnimalFarmManager.Core.dll
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\bin\Debug\netstandard1.6\AnimalFarmManager.Core.pdb
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\netstandard1.6\AnimalFarmManager.Core.dll
+C:\workspace\NET\afm\AnimalFarmMagener\AnimalFarmManager.Core\obj\Debug\netstandard1.6\AnimalFarmManager.Core.pdb
