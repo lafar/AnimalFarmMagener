@@ -11403,11 +11403,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests.E2E\\AnimalFarmManager.Tests.E2E.csproj",
+      "projectUniqueName": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests.E2E\\AnimalFarmManager.Tests.E2E.csproj",
       "projectName": "AnimalFarmManager.Tests.E2E",
-      "projectPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests.E2E\\AnimalFarmManager.Tests.E2E.csproj",
+      "projectPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests.E2E\\AnimalFarmManager.Tests.E2E.csproj",
       "packagesPath": "C:\\Users\\Asia\\.nuget\\packages\\",
-      "outputPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests.E2E\\obj\\",
+      "outputPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests.E2E\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -11422,8 +11422,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj": {
-              "projectPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj"
+            "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj": {
+              "projectPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj"
             }
           }
         }

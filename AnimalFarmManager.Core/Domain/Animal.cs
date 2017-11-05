@@ -15,7 +15,7 @@ namespace AnimalFarmManager.Core.Domain
             Father = father;
             Sex = sex;
             BirthDate = birthDate;
-            Cage = mother.Cage;
+           // Cage = mother.Cage;
             
         }
 
