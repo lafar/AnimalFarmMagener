@@ -15,6 +15,8 @@ namespace AnimalFarmManager.Core.Domain
             Father = father;
             Sex = sex;
             BirthDate = birthDate;
+            Cage = mother.Cage;
+            
         }
 
         public Animal(Mother mother, Father father, Gender sex) : this(mother, father, sex, new DateInfo(){Date = DateTime.UtcNow})

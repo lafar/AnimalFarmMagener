@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <ProjectReference Include="../AnimalFarmManager.Core/AnimalFarmManager.Core.csproj" />
-    <ProjectReference Include="../AnimalFarmManager.Infrastructure/AnimalFarmManager.Infrastructure.csproj" />
+    <ProjectReference Include="../AnimalFarmManager.Infrastructure/AnimalFarmManager.Infrastructure.csproj" />  
   </ItemGroup>
 
   <ItemGroup>

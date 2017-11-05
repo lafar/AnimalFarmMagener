@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace AnimalFarmManager.Core.Domain
 {
-    public class Litter
+    public class Young
     {
-        public Litter(Animal mother, Animal father, IEnumerable<Animal> youngAnimals, DateTime birthDate)
+        public Young(Animal mother, Animal father, IEnumerable<Animal> youngAnimals, DateTime birthDate)
         {
 
         }
