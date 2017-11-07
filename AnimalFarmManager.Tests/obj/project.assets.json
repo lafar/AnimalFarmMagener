@@ -11359,11 +11359,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests\\AnimalFarmManager.Tests.csproj",
+      "projectUniqueName": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests\\AnimalFarmManager.Tests.csproj",
       "projectName": "AnimalFarmManager.Tests",
-      "projectPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests\\AnimalFarmManager.Tests.csproj",
+      "projectPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests\\AnimalFarmManager.Tests.csproj",
       "packagesPath": "C:\\Users\\Asia\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests\\obj\\",
+      "outputPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asia\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -11378,11 +11378,11 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj": {
-              "projectPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj"
+            "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj": {
+              "projectPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj"
             },
-            "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj": {
-              "projectPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj"
+            "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj": {
+              "projectPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Infrastructure\\AnimalFarmManager.Infrastructure.csproj"
             }
           }
         }
