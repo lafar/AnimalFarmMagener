@@ -5,7 +5,7 @@ using AnimalFarmManager.Infrastructure.DTO;
 
 namespace AnimalFarmManager.Infrastructure.Services
 {
-    class AnimalService : IAnimalService
+    public class AnimalService : IAnimalService
     {
         private readonly IAnimalRepository _animalRepository;
 

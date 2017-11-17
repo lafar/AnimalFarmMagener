@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using AnimalFarmManager.Infrastructure.Services;
+using AnimalFarmManager.Infrastructure.Repositories;
+using AnimalFarmManager.Core.Repositories;
 
 namespace AnimalFarmManager.API
 {
@@ -27,6 +30,8 @@ namespace AnimalFarmManager.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IAnimalRepository, InMemoryAnimalRepository>();
+            services.AddScoped<IAnimalService, AnimalService>();
             // Add framework services.
             services.AddMvc();
         }

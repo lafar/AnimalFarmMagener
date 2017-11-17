@@ -3,7 +3,7 @@ using AnimalFarmManager.Core.Domain;
 
 namespace AnimalFarmManager.Infrastructure.DTO
 {
-    class AnimalDTO
+    public class AnimalDTO
     {
         public Guid Id { get;  set; }
         public DateTime BirthDate { get;  set; }

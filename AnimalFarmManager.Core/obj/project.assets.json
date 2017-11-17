@@ -4334,11 +4334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj",
+      "projectUniqueName": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj",
       "projectName": "AnimalFarmManager.Core",
-      "projectPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj",
+      "projectPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\AnimalFarmManager.Core.csproj",
       "packagesPath": "C:\\Users\\Asia\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\obj\\",
+      "outputPath": "c:\\workspace\\NET\\AFM\\AnimalFarmMagener\\AnimalFarmManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

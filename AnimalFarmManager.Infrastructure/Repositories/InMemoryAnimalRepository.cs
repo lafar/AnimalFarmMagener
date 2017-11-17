@@ -7,10 +7,10 @@ using AnimalFarmManager.Core.Repositories;
 
 namespace AnimalFarmManager.Infrastructure.Repositories
 {
-    class InMemoryAnimalRepository : IAnimalRepository
+    public class InMemoryAnimalRepository : IAnimalRepository
     {
-        private readonly ISet<Animal> _animals = new HashSet<Animal>();
-        public Animal Get(Guid id)
+        private static ISet<Animal> _animals = new HashSet<Animal>();
+           public Animal Get(Guid id)
         {
             return _animals.Single(x => x.Id == id);
         }
