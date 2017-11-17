@@ -8,7 +8,7 @@ namespace AnimalFarmManager.Core.Domain
         {
         }
 
-        public Animal(Mother mother, Father father, Gender sex, DateInfo birthDate, bool aa)
+        public Animal(Mother mother, Father father, Gender sex, DateInfo birthDate)
         {
             Id = Guid.NewGuid();
             Mother = mother;

@@ -19,9 +19,9 @@ namespace AnimalFarmManager.API.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public AnimalDTO Get(int id)
+        public string Get(int id)
         {
-            return "value";
+            return "inserted id : " + id.ToString();
         }
 
         // POST api/values
