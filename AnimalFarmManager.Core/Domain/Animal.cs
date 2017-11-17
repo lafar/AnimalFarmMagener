@@ -8,7 +8,7 @@ namespace AnimalFarmManager.Core.Domain
         {
         }
 
-        public Animal(Mother mother, Father father, Gender sex, DateInfo birthDate)
+        public Animal(Mother mother, Father father, Gender sex, DateInfo birthDate, bool aa)
         {
             Id = Guid.NewGuid();
             Mother = mother;
@@ -19,7 +19,7 @@ namespace AnimalFarmManager.Core.Domain
             
         }
 
-        public Animal(Mother mother, Father father, Gender sex) : this(mother, father, sex, new DateInfo(){Date = DateTime.UtcNow})
+        public Animal(Mother mother, Father father, Gender sex) : this(mother, father, sex, new DateInfo())
         {
 
         }
@@ -43,8 +43,13 @@ namespace AnimalFarmManager.Core.Domain
         Male
     }
 
-    public struct DateInfo
+    public class DateInfo
     {
+        public  DateInfo() 
+        {
+            this.Date = DateTime.UtcNow;
+            this.Description = "";
+        }
         public DateTime Date;
         public string Description;
     }
