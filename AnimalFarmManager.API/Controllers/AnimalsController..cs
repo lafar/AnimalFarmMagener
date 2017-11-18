@@ -21,7 +21,7 @@ namespace AnimalFarmManager.API.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "inserted id : " + id.ToString();
+            return @"<!DOCTYPE html><html><body><h1>My First Heading</h1><p>My first paragraph.</p></body></html>" ;
         }
 
         // POST api/values

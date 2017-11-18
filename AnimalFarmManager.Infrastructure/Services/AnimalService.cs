@@ -8,16 +8,24 @@ namespace AnimalFarmManager.Infrastructure.Services
     public class AnimalService : IAnimalService
     {
         private readonly IAnimalRepository _animalRepository;
+        private readonly IMotherRepository motherRepository;
+        private readonly IFatherRepository fatherRepository;
 
-        public AnimalService(IAnimalRepository animalRepository)
+        public AnimalService(IAnimalRepository animalRepository, IMotherRepository motherRepository, IFatherRepository fatherRepository)
         {
             _animalRepository = animalRepository;
+            this.motherRepository = motherRepository;
+            this.fatherRepository = fatherRepository;
         }
 
+        public void Create(string motherName, string fatherName)
+        {
+            Create(motherRepository.Get(motherName), fatherRepository.Get(fatherName), DateTime.UtcNow);
 
+        }
         
 
-        public void Create(string mother, string father, DateTime birthDate, string description = "")
+        protected void Create(string mother, string father, DateTime birthDate, string description = "")
         {
             var animal = _animalRepository.Get(mother, father, birthDate);
         }
